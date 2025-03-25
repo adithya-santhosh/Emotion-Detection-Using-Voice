@@ -48,7 +48,7 @@ In this project we're finding the emotion of a person by its vocal pattern. To a
 ## Data Preprocessing 
 
 We have combined multiple dataset into a single dataframe with path and label.
-
+The file after data preprocessing can be found in data. Note: It contains the path and labels, not the audio file. 
 
 
 ## Feature Extraction
@@ -59,6 +59,10 @@ Extract feature from audio file
             - MEL Spectrogram Frequency (mel)
             - Contrast (contrast)
             - Tonnetz (tonnetz)
+
+## Result
+* We were able to achieve more than 78% accuracy with our simplified model.
+![Accuracy over Epochs](Data/image/image.png) 
 
 
 
