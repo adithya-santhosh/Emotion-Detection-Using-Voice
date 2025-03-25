@@ -47,8 +47,12 @@ In this project we're finding the emotion of a person by its vocal pattern. To a
 
 ## Data Preprocessing 
 
-We have combined multiple dataset into a single dataframe with path and label.
-The file after data preprocessing can be found in data. Note: It contains the path and labels, not the audio file. 
+
+
+We have combined multiple dataset into a single dataframe with path and label. This was done directly within the dataset provided. What we did was get the required number of samples based on the number of emotions.The file after data preprocessing can be found in data. Note: It contains the path and labels, not the audio file. 
+
+
+
 
 
 ## Feature Extraction
