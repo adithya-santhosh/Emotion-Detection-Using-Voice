@@ -1,0 +1,11 @@
+pandas
+numpy
+kagglehub
+librosa
+matplotlib
+seaborn
+ipython
+tensorflow
+scikit-learn
+xgboost
+keras

@@ -1,0 +1,21 @@
+name: emotion-detection
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+  - numpy
+  - kagglehub
+  - librosa
+  - matplotlib
+  - seaborn
+  - ipython
+  - tensorflow
+  - scikit-learn
+  - xgboost
+  - keras
+  - pip
+  - pip:
+      - os-sys
+      - random
