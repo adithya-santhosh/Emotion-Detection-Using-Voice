@@ -40,8 +40,11 @@ In this project we're finding the emotion of a person by its vocal pattern. To a
 
 ## Features
 ✅ Preprocessing of audio data
+
 ✅ Feature extraction using MFCCs & other techniques
+
 ✅ Machine learning & deep learning models for emotion classification
+
 ✅ Performance evaluation & result analysis
 
 
@@ -57,7 +60,9 @@ We have combined multiple dataset into a single dataframe with path and label. T
 
 ## Feature Extraction
 Extract feature from audio file 
+        
         Features supported:
+            
             - MFCC (mfcc)
             - Chroma (chroma)
             - MEL Spectrogram Frequency (mel)
